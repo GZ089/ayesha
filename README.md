@@ -1,121 +1,120 @@
-Ayesha Mall
+# Ayesha Mall
 <p align="center"> <img src="https://ayesha-mall.netlify.app/image/logo.png" alt="Ayesha Mall Logo" width="180"> </p> <p align="center"> <strong>Private E-Commerce & Merchant Management Platform</strong> </p> <p align="center"> <em>Shop. Sell. Manage. Grow.</em> </p>
-About Ayesha Mall
+### About Ayesha Mall
 
-AyeshaMall is an online shopping platform in Pakistan offering a curated selection of fashion, electronics, and home essentials.
+*AyeshaMall is an online shopping platform in Pakistan offering a curated selection of fashion, electronics, and home essentials.*
 
 Ayesha Mall is also a private e-commerce and merchant management platform designed to help businesses create, customize, manage, market, and grow their online stores from one centralized platform.
 
-[!IMPORTANT]
+# IMPORTANT
 Private Project: Ayesha Mall is not open source. The project repository and source code are private and are not publicly uploaded to GitHub.
 
-Features
-Store Overview
+# Features
+### Store Overview
 
 Get an overview of your own online store, including important store information and management options.
 
-Store:
+# Store:
 https://ayesha-mall.netlify.app
 
-Shop
+# Shop
 
 Manage and organize products and provide customers with a complete online shopping experience.
 
-Shop:
+### Shop:
 https://ayesha-mall.netlify.app/shop
-
-Supplier Application
+# Supplier Application
 
 Apply as a supplier and provide the required business information to work with the platform.
 
-Supplier Application:
+# Supplier Application:
 https://ayesha-mall.netlify.app/supplierapplication
 
-Authentication & Shop Settings
+# Authentication & Shop Settings
 
 Create, customize, and manage your shop settings through the authentication and account management system.
 
-Authentication:
+# Authentication:
 https://ayesha-mall.netlify.app/authentication
 
-Order Management
+# Order Management
 
 Manage customer orders and track the order lifecycle directly from the store management system.
 
-Orders:
+# Orders:
 https://ayesha-mall.netlify.app/orders
 
-Product & Inventory Management
+# Product & Inventory Management
 
 Add, update, organize, and manage products while keeping track of your store inventory.
 
-Products:
+# Products:
 https://ayesha-mall.netlify.app/products
 
-Business Analytics
+# Business Analytics
 
 Analyze your business performance and gain insights into store activity, sales, products, and other important business metrics.
 
-Analytics:
+# Analytics:
 https://ayesha-mall.netlify.app/analytics
 
-Custom Domain
+# Custom Domain
 
 Configure and manage your own domain for your online store.
 
-Shop Metadata:
+# Shop Metadata:
 https://ayesha-mall.netlify.app/shopmetadata
 
-Marketing
+# Marketing
 
 Use Ayesha Mall's marketing tools to promote products, reach customers, and grow your online business.
 
-Ayesha Mall AI:
+# Ayesha Mall AI:
 https://ayesha-mall.netlify.app/ayeshamallai
 
-Website Customization
+# Website Customization
 
 Customize your own website and create a storefront that matches your brand and business requirements.
 
-Ayesha Studio:
+# Ayesha Studio:
 https://ayesha-mall.netlify.app/ayeshastudio
 
-Merchant Application
+# Merchant Application
 
 Apply to become an Ayesha Mall Merchant and start selling through the platform.
 
-Merchant Application:
+# Merchant Application:
 https://dropayesha.netlify.app/merchant/apply
 
-Free Website Application
+# Free Website Application
 
 Apply for a free website with dynamic product support, allowing businesses to establish an online presence without building everything from scratch.
 
-Free Website Application:
+# Free Website Application:
 https://ayesha-mall.netlify.app/sellman/apply
 
-Platform Overview
+# Platform Overview
 
 Ayesha Mall brings essential e-commerce and business management tools together in one platform.
 
-Feature	Description
-Store Management	Manage and configure your online store
-Product Management	Add, edit, organize, and manage products
-Inventory Management	Track and manage product inventory
-Order Management	Manage customer orders and order status
-Supplier Applications	Apply and manage supplier onboarding
-Merchant Applications	Apply to become an Ayesha Mall merchant
-Business Analytics	Analyze business and store performance
-Marketing Tools	Promote products and grow your business
-AI Assistance	AI-powered tools for business and marketing
-Website Customization	Customize your online storefront
-Custom Domains	Connect and manage your own domain
-Dynamic Websites	Create websites with dynamic products
-Shop Settings	Configure and customize store settings
-Project Status
-Private / Proprietary
+# Feature	Description
+1. Store Management	Manage and configure your online store
+2. Product Management	Add, edit, organize, and manage products
+3. Inventory Management	Track and manage product inventory
+4. Order Management	Manage customer orders and order status
+5. Supplier Applications	Apply and manage supplier onboarding
+6. Merchant Applications	Apply to become an Ayesha Mall merchant
+7. Business Analytics	Analyze business and store performance
+8. Marketing Tools	Promote products and grow your business
+9. AI Assistance	AI-powered tools for business and marketing
+10. Website Customization	Customize your online storefront
+11. Custom Domains	Connect and manage your own domain
+12. Dynamic Websites	Create websites with dynamic products
+13. Shop Settings	Configure and customize store settings
+# Project Status
+# Private / Proprietary
 
-Ayesha Mall is a proprietary project.
+# Ayesha Mall is a proprietary project.
 
 The following are private and confidential:
 
@@ -130,7 +129,7 @@ Database structure
 Internal systems
 Proprietary features
 
-The project is not open source and the source code is not publicly available on GitHub.
+# The project is not open source and the source code is not publicly available on GitHub.
 
 This README provides only a high-level overview of the platform and its features.
 
